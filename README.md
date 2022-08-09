@@ -10,3 +10,5 @@ This project won a Third Prize in the field of Embedded Systems at the 2022 Viet
 # Repositories
 * Back-end server: https://github.com/jalsol/server
 * Front-end client: https://github.com/jalsol/client
+* Documents: https://github.com/jalsol/docs
+* Poster: https://github.com/jalsol/poster
