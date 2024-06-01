@@ -7,8 +7,15 @@ This project, with the help of Deep Learning, aims at applying image classificat
 
 This project won a Third Prize in the field of Embedded Systems at the 2022 Vietnamese National Science and Engineering Fair for Secondary students.
 
+# Media coverage (Vietnamese)
+
+* https://thanhnien.vn/bat-benh-cho-cay-1851456291.htm
+* https://giaoducthoidai.vn/hoc-sinh-bat-benh-cho-cay-ca-phe-post603405.html
+* https://giaoducthoidai.vn/nhan-dien-sau-benh-hai-qua-hinh-thai-la-post502847.html
+* https://vusta.vn/kon-tum-ung-dung-tri-tue-nhan-tao-nhan-dien-sau-benh-tren-cay-ca-phe-p91263.html
+
 # Repositories
-* Back-end server: https://github.com/jalsol-visef2022/server
-* Front-end client: https://github.com/jalsol-visef2022/client
+* Server: https://github.com/jalsol-visef2022/server
+* Client: https://github.com/jalsol-visef2022/client
 * Documents: https://github.com/jalsol-visef2022/docs
 * Poster: https://github.com/jalsol-visef2022/poster
