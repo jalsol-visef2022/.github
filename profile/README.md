@@ -8,7 +8,7 @@ This project, with the help of Deep Learning, aims at applying image classificat
 This project won a Third Prize in the field of Embedded Systems at the 2022 Vietnamese National Science and Engineering Fair for Secondary students.
 
 # Repositories
-* Back-end server: https://github.com/jalsol/server
-* Front-end client: https://github.com/jalsol/client
-* Documents: https://github.com/jalsol/docs
-* Poster: https://github.com/jalsol/poster
+* Back-end server: https://github.com/jalsol-visef2022/server
+* Front-end client: https://github.com/jalsol-visef2022/client
+* Documents: https://github.com/jalsol-visef2022/docs
+* Poster: https://github.com/jalsol-visef2022/poster
